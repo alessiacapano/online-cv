@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -51,80 +51,40 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Educational Sciences student
-
-      Second paragraph if required.
+      I am a Education Sciences student looking to move to Broadstairs during next year.
+      I enjoy working with children and I am looking for a job/training experience in August 2019 so that
+      I can make some experience before moving there.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Education Sciences
+      university: Università Suor Orsola Benincasa
+      time: 2016 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The degree course enables students to acquire the theoretical and practical competences required to work in the field
+        of educational sciences. In order to develop fully qualified professional figures, in-depth study is carried out in
+        the fields of pedagogy, psychology, philosophy, history and anthropo-sociology.
 
-          - Bullet point
-          - Bullet point
+        Throughout the three years, students will acquire theoretical, epistemological and methodological knowledge of the many
+        different issues pertaining to the field of education and training: a thorough knowledge of the epistemological paradigms
+        which, both in the past and in the present, have characterized contemporary multidisciplinary research in this field;
+        a knowledge of the theories which characterize the training, development and learning processes pertaining
+        to the different stages in an individual's life (lifelong learning); a grounded awareness of the educational problems
+        which emerge from the analysis of social, cultural and territorial realities; an ability to plan, manage, monitor
+        and evaluate educational schemes and projects; an ability to carry out research in the field of education.
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        In the course of their studies, students can opt to concentrate on one of the following areas pertaining
+        to the educating professions: childcare services; social assistance and cultural services; educational services
+        in school contexts. By the end of their studies, graduates must have acquired an adequate level of written and 
+        spoken English and satisfactory communication skills.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Volunteer for children's hospital
+      time: 2016 - 2017
+      company: Abio Napoli, www.abionapoli.org
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I volunteered part-time in a children's hospital for a year during my first year of university.
+        Activities included visiting the pediatric ward and doing recreational activities with them like coloring,
+        reading and puppetry.
 
 projects:
     title: Projects
@@ -153,26 +113,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
