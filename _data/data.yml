@@ -109,13 +109,13 @@ projects:
         tagline: "A workshop about what learning disabilities and specific difficulties like dyslessia, dyspraxia, attention deficit disorder, dyscalculia are and how to behave when dealing with a subject under this conditions."
       - title: "L'arte accessibile - disabilità sensoriali"
         link: "https://www.legadelfilodoro.it"
-        tagline: "A workshop about what how to make art and museums accessible to people with _sensorial disabilities_."
+        tagline: "A workshop about what how to make art and museums accessible to people with <b>sensorial disabilities</b>."
       - title: "L'arte accessibile - disabilità visive"
         link: "https://www.unisob.na.it"
-        tagline: "A workshop about what how to make art and museums accessible to *visually impaired* people."
+        tagline: "A workshop about what how to make art and museums accessible to <b>visually impaired</b> people."
       - title: "L'arte accessibile - disabilità uditive"
         link: "https://www.unisob.na.it"
-        tagline: "A workshop about what how to make art and museums accessible to people with hearing disabilities."
+        tagline: "A workshop about what how to make art and museums accessible to people with <b>hearing disabilities</b>."
 
 footer: >
     Made with <i class="fas fa-heart"></i> by Alessia
