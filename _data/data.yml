@@ -98,23 +98,20 @@ experiences:
     
 
 projects:
-    title: Projects
+    title: Workshops 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here's a list of workshops I attended, with details about their content.
+      I got a certificate of attendance from each one of them, which I can show upon request.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "DSA, BES, ADHS: Come comportarsi?"
+        link: "www.centrodislessianapoli.wordpress.com"
+        tagline: "A workshop about what learning disabilities and specific difficulties like dyslessia, dyspraxia,
+        attention deficit disorder, dyscalculia are and how to behave when dealing with a subject under this conditions."
+      - title: "DSA, BES, ADHS: Come comportarsi?"
+        link: "www.centrodislessianapoli.wordpress.com"
+        tagline: "A workshop about what learning disabilities and specific difficulties like dyslessia, dyspraxia,
+        attention deficit disorder, dyscalculia are and how to behave when dealing with a subject under this conditions."
 
 
 footer: >
