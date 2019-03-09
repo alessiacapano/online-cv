@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Alessia Capano
-url: 'http://alessiacapano.github.io'
+url: 'http://alessiacapano.github.io/online-cv'
 baseurl: '/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
