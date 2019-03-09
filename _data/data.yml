@@ -78,6 +78,15 @@ education:
         spoken English and satisfactory communication skills.
 
 experiences:
+    - role: Tutor for students with special needs
+      time: 2017 - 2019
+      company: Università Suor Orsola Benincasa
+      details: |
+        I was a tutor for students with special needs for two years in my university. My activity consisted in
+        attending classes, helping them with both personal relationships and studying activities, from taking notes in class
+        to studying. As part of the job, I had to write down a report about the student after every encounter to track
+        both the student's progress and my progress. 
+        
     - role: Volunteer for children's hospital
       time: 2016 - 2017
       company: Abio Napoli, www.abionapoli.org
@@ -85,6 +94,8 @@ experiences:
         I volunteered part-time in a children's hospital for a year during my first year of university.
         Activities included visiting the pediatric ward and doing recreational activities with them like coloring,
         reading and puppetry.
+        
+    
 
 projects:
     title: Projects
@@ -98,22 +109,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -121,20 +116,6 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Made with <i class="fas fa-heart"></i> by Alessia
