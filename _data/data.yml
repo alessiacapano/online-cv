@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: alessia.capano97@gmail.com
-    phone: +39 3334521780
+    phone: 07490590224
     # website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
     #github: ale
@@ -51,14 +51,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an Education Sciences student looking to move to Broadstairs during next year.
-      I enjoy working with children and I am looking for a job/training experience in August 2019 so that
-      I can make some experience before moving there.
+      I just graduated in Education Sciences and I'm moving to Broadstairs in January 2020.
+      I enjoy working with children and I am looking for a job/training experience starting January 2020 so that
+      I can make some experience.
 
 education:
     - degree: BSc in Education Sciences
       university: Università Suor Orsola Benincasa
-      time: 2016 - 2019
+      time: Sept 2016 - Dec 2019
       details: |
         The degree course enables students to acquire the theoretical and practical competences required to work in the field
         of educational sciences. In order to develop fully qualified professional figures, in-depth study is carried out in
@@ -67,7 +67,7 @@ education:
         Throughout the three years, students will acquire theoretical, epistemological and methodological knowledge of the many
         different issues pertaining to the field of education and training: a thorough knowledge of the epistemological paradigms
         which, both in the past and in the present, have characterized contemporary multidisciplinary research in this field;
-        a knowledge of the theories which characterize the training, development and learning processes pertaining
+        a knowledge of the theories which characterize the training, development and learning proceertaining
         to the different stages in an individual's life (lifelong learning); a grounded awareness of the educational problems
         which emerge from the analysis of social, cultural and territorial realities; an ability to plan, manage, monitor
         and evaluate educational schemes and projects; an ability to carry out research in the field of education.
@@ -78,6 +78,12 @@ education:
         spoken English and satisfactory communication skills.
 
 experiences:
+    - role: Waitress
+      time: August 2019
+      company: Ristorante Posillipo Broadstairs
+      details: |
+        I worked as a waitress at the italian restaurant Posillipo in Broadstairs, where I was taking
+        orders, bring plates to customers and preparing sweets.
     - role: Tutor for students with special needs
       time: 2017 - 2019
       company: Università Suor Orsola Benincasa
